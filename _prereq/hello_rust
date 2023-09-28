@@ -3,3 +3,7 @@ Bootcamp Repository
 fn main() {
     println!("Hello World!");
 }
+#importing in rust
+# 'use'(name of library)::io;
+# 'mut' mutable is non static variable value, in default its non mutable
+# 
