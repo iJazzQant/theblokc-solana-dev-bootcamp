@@ -1,2 +1,34 @@
 # CLI Github
 Bootcamp Repository
+# Why Learn CLI?
+#Faster navigation, more freedom or control and the ability to run or manage servers.
+# Assumptions
+# WSL is installed and using CLI in WSL workspace (Mostly just for WINDOWS)
+# 'ls' is to know what path you have, and using ls <pathname>, it will show what's inside
+# cd - changes directory it can be change in levels until it goes '/'
+# cp - copying source file to the specified file
+# mv - moving from recent to specified file, can work when renamed filenames.
+# rm - removes file, this only works when you're inside the directory.
+# add -r or -f : -r removes directories like ex. rm and -r || -f it force to removes directories if previous command did not wor.
+#  > (filename) - create/edit file with sepcified text
+# >> (filename) - appends text to an existing file
+# echo (text) - logs text to the terminal
+# removing open port or file
+# lsof -i ((Is for port)), take not of PID (process ID), kill -9 PID
+
+#Git Basics
+#Firstly what is GIT?, is a version control system that track the changes in the files, also allows to revert previous versions and merge changes of the files that happened.
+#GIT is good for collaboritive development
+# 'git help' for infomration about git, 'git help init' for checking the commands
+# 'git config' is to configure git, can be system, global, local, worktree, or file. for example |git config --global user.name "User Name"|
+#  git init - initialize a new repository, git clone [URL] clones an existing repository to your system
+#  Making Changes
+# git status - shows the recent changes
+# git add - to track changes
+# git restore & .gitignore - to untrack changes
+# git commit is saving the changes
+# git stash: temporarily shelve changes, allows context switching
+# Branches, allows isolated development features
+# git branch - manage branches, create, list, or delete them.
+# git checkout & git switch - switching branches
+# lifehacks extension for tracking, Git Graph.
