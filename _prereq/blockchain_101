@@ -1,2 +1,35 @@
 # Blockchain 101
-Bootcamp Repository
+#Bootcamp Repository
+
+# Blockchain overview, is a revolutionary technology with diverse applications.
+# It offers decentralization, security, and transparency.
+
+# Mining and Crypto
+# Mining involves solving puzzles to validate transactions.
+# Bitcoin and Ethereum are prominent cryptocurrencies.
+# GPU shortages were caused by crypto mining demand.
+
+# NFTs
+# NFTs represent unique assets on the blockchain.
+# Examples include the Board Ape Yacht Club collection.
+# NFT values can be volatile.
+
+# Blockchain Uses
+# Blockchain applications in payments, smart contracts, IoT, real estate, identity, logistics, entertainment, education, healthcare, and NFTs.
+
+# Contracts
+# Smart contracts are self-executing contracts on the blockchain.
+# Ethereum's Solidity is a prominent language for smart contracts.
+
+# Transaction Fees
+# Gas fees are transaction fees for executing operations on the blockchain.
+# Fees are essential for maintaining the network and incentivizing validators.
+
+# Programming Language used in Blockchains are JS, C++, Rust, and Solidity
+
+# Difference of the Tangible and Non tangible Assets and tokens
+# In assets, it is physical and non fungible are digital and unique, like NFT
+# Fungible and Non Fungible tokens are crypto including the NFT mentioned earlier
+
+
+
